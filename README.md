@@ -1,8 +1,5 @@
-# Hi there! I'm Jia Yu 👋
+# Hello, world! 👋  
 
-Welcome to my GitHub profile! I'm a cybersecurity student with a passion for low-level software engineering and reverse engineering. I love diving deep into how web applications, mobile platforms, and operating systems work.
+I'm Jia Yu, a cybersecurity student with a curious mind for all things tech. From mobile and web development to programming microcontrollers, I love exploring diverse technologies and building creative projects.  
 
-## About Me
-- 🛡️ Exploring low-level software and malware analysis
-- ✅ Solid foundation in web and mobile application development
-- 🧰 Enthusiastic about analyzing and securing technological ecosystems
+This GitHub is a space for my experiments and quirky ideas — feel free to stick around and see what I come up with next! 😊
